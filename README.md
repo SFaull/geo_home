@@ -1,3 +1,10 @@
+# Intro
+
+This is a fork of https://github.com/mmillmor/geo_home
+The original author limits the polling rate to once every 120s. This fork adds a configuration parameter that allows the user to choose the polling rate.
+Default rate is 10s which is the maximum rate most devices report data.
+Original readme continues below...
+
 # Geo Home
 
 Integrate with Geo Home smart meters in Home Assistant

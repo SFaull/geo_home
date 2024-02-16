@@ -1,7 +1,7 @@
 {
   "domain": "geo_home",
   "name": "Geo Home",
-  "codeowners": ["@mmillmor"],
+  "codeowners": ["@mmillmor", "@SFaull"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://www.home-assistant.io/integrations/geo_home",
